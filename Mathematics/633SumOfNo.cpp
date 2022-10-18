@@ -29,8 +29,11 @@ Constraints:
 
 0 <= c <= 231 - 1
 
+check this answer every revision
+
+
 */
-Time completixy=O(√c*log√c)
+// Time completixy=O(√c*log√c)
 class Solution {
 public:
     bool judgeSquareSum(int c) {
